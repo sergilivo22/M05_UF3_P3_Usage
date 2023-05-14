@@ -1,0 +1,14 @@
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.exe
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.deps.json
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.runtimeconfig.json
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.runtimeconfig.dev.json
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.dll
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.pdb
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.csproj.AssemblyReference.cache
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.AssemblyInfoInputs.cache
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.AssemblyInfo.cs
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.csproj.CoreCompileInputs.cache
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.dll
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.pdb
+Z:\Implika\Proyectos\M05_UF3_P3_Usage\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.genruntimeconfig.cache
